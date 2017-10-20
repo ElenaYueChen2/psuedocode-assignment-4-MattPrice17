@@ -1,19 +1,16 @@
-Rules
+Rules for War:
 Only two players can play.
 Shuffle the cards.
 Deal the two players an even amount of cards.
 Make sure cards are face down.
 
 Round 1
-Each player places the card on top face up on the table.
+Each player places the card on top of their pile face up on the table.
 Whichever card has a higher rank wins the cards that were played and puts the cards back into his/her deck.
-Loop while both people still have cards;
-Whoever runs out of cards first loses.
-
-Round 2
-Each player places the card on top face up on the table.
 If the cards are the same rank then
   Place three cards face down.
   Flip one card.
-  Loop if cards are the same rank;
+  Loop until one person wins
   Once a card is higher than the other, that person takes all of the cards placed in the tie and puts the cards back into his/her deck.
+Loop while both people still have cards;
+Whoever runs out of cards first loses.
